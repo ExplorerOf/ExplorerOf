@@ -17,10 +17,12 @@ lines=[
  ("out",'  "ecommerce":  ["Shopify", "Mercado Livre", "Shopee", "Amazon", "Magalu", "TikTok Shop"]',3.2),
  ("out","}",3.3),
  ("out","",3.3),
- ("cmd","dir /b projetos",3.9,0.8),
- ("out","hermes-hub",4.9),("out","hefesto",5.0),("out","temis-etiquetas",5.1),
- ("out","",5.1),
- ("cmd","",5.6,0.01),
+ ("cmd",'git log --format="%as %s" -3',3.9,1.2),
+ ("out","2026-10-28 hefesto: expedição em produção",5.3),
+ ("out","2026-10-27 hermes-hub: página pública no ar",5.4),
+ ("out","2026-10-16 hefesto: migração do sistema legado concluída",5.5),
+ ("out","",5.5),
+ ("cmd","",6.0,0.01),
 ]
 H=Y0+LH*len(lines)+4
 body=[]; defs=[]

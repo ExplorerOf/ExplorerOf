@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-<img src="terminal.svg?v=3" width="800" alt="Terminal: whoami, stack.json e projetos" />
+<img src="terminal.svg?v=4" width="800" alt="Terminal: whoami, stack.json e projetos" />
 
 **Desenvolvedor na [Olimpo Esportes](https://olimpoesportes.com.br)** e estudante de Análise e Desenvolvimento de Sistemas.
 
@@ -8,6 +8,12 @@ Participo da criação do **Hermes Hub** e de outras soluções internas da empr
 marketplaces e ERP, automação de expedição e sistemas de apoio à produção e ao estoque.
 
 [LinkedIn](https://br.linkedin.com/in/gustavo-kogien-caraski-5846b2190) · [Olimpo Esportes](https://olimpoesportes.com.br)
+
+## Fluxo de dados
+
+*Como os pedidos e o estoque circulam entre as plataformas e os sistemas internos.*
+
+<img src="fluxo.svg" width="800" alt="Diagrama: marketplaces e loja alimentam o Hermes Hub, que troca dados com o ERP e envia para o Hefesto e o Temis.etiquetas" />
 
 ## Stack
 
@@ -39,12 +45,12 @@ marketplaces e ERP, automação de expedição e sistemas de apoio à produção
   <tr>
     <td align="right"><strong>E-commerce</strong></td>
     <td>
-      <img src="logos/shopify.svg" height="40" alt="Shopify" />
-      <img src="logos/mercado-livre.svg" height="40" alt="Mercado Livre" />
-      <img src="logos/shopee.svg" height="40" alt="Shopee" />
-      <img src="logos/amazon.svg" height="40" alt="Amazon" />
-      <img src="logos/magalu.svg" height="40" alt="Magalu" />
-      <img src="logos/tiktok-shop.svg" height="40" alt="TikTok Shop" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="logos/dark/shopify.svg" /><img src="logos/shopify.svg" height="40" alt="Shopify" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="logos/dark/mercado-livre.svg" /><img src="logos/mercado-livre.svg" height="40" alt="Mercado Livre" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="logos/dark/shopee.svg" /><img src="logos/shopee.svg" height="40" alt="Shopee" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="logos/dark/amazon.svg" /><img src="logos/amazon.svg" height="40" alt="Amazon" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="logos/dark/magalu.svg" /><img src="logos/magalu.svg" height="40" alt="Magalu" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="logos/dark/tiktok-shop.svg" /><img src="logos/tiktok-shop.svg" height="40" alt="TikTok Shop" /></picture>
     </td>
   </tr>
 </table>
