@@ -8,6 +8,7 @@ lines=[
  ("out","",0.1),
  ("cmd","whoami",0.5,0.5),
  ("out","Gustavo Kogien Caraski · dev @ Olimpo Esportes · estudante de ADS",1.2),
+ ("out","Amante de tecnologia desde os 13 anos, quando o Tibia me apresentou aos computadores.",1.3),
  ("out","",1.2),
  ("cmd","type stack.json",1.7,0.9),
  ("out","{",2.8),
