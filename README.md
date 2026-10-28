@@ -1,8 +1,8 @@
 # Olá, eu sou o Gustavo 👋
 
-*Back-end developer focused on e-commerce integrations and automation. This profile is in Portuguese.*
+🇧🇷 Português · [🇺🇸 English](README.en.md)
 
-<img src="terminal.svg?v=10" width="800" alt="Terminal: whoami, stack.json e projetos" />
+<img src="terminal.svg?v=11" width="800" alt="Terminal: whoami, stack.json e git log" />
 
 **Desenvolvedor back-end na [Olimpo Esportes](https://olimpoesportes.com.br)**, com foco em integrações e automação para e-commerce, e estudante de Análise e Desenvolvimento de Sistemas.
 

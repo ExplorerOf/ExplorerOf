@@ -1,0 +1,27 @@
+{
+  "style": "windows",
+  "title": "Explorer_Of / Gustavo Kogien Caraski",
+  "prompt": "C:\\Users\\Explorer_Of>",
+  "lines": [
+    "Microsoft Windows [Version 10.0.26200]",
+    "",
+    {"cmd": "whoami"},
+    "Gustavo Kogien Caraski · back-end dev @ Olimpo Esportes · Systems Analysis student",
+    "Tech enthusiast since I was 14. It all started with Tibia and the curiosity to",
+    "understand how computers worked, and it turned into a career in systems and automation.",
+    "",
+    {"cmd": "type stack.json"},
+    "{",
+    "  \"languages\": [\"TypeScript\", \"Python\"],",
+    "  \"web\":       [\"Next.js\", \"Node.js\"],",
+    "  \"data\":      [\"PostgreSQL\", \"Docker\", \"GitHub Actions\"],",
+    "  \"ecommerce\": [\"Shopify\", \"Mercado Livre\", \"Shopee\", \"Amazon\", \"Magalu\", \"TikTok Shop\"]",
+    "}",
+    "",
+    {"cmd": "git log --format=\"%as %s\" -3"},
+    "2026-10-28 feat(automation): new shipping workflow in production",
+    "2026-10-27 feat(integrations): order and stock sync",
+    "2026-10-16 chore(migration): legacy system retired",
+    ""
+  ]
+}
