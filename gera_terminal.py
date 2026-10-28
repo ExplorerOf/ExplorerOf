@@ -8,7 +8,7 @@ lines=[
  ("out","",0.1),
  ("cmd","whoami",0.5,0.5),
  ("out","Gustavo Kogien Caraski · dev @ Olimpo Esportes · estudante de ADS",1.2),
- ("out","Entusiasta de tecnologia desde os 13 anos. Tudo começou com o Tibia e a curiosidade de",1.3),
+ ("out","Entusiasta de tecnologia desde os 14 anos. Tudo começou com o Tibia e a curiosidade de",1.3),
  ("out","entender como os computadores funcionavam, e virou carreira em sistemas e automações.",1.4),
  ("out","",1.2),
  ("cmd","type stack.json",1.7,0.9),
