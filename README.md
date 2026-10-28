@@ -48,9 +48,3 @@ marketplaces e ERP, automação de expedição e sistemas de apoio à produção
     </td>
   </tr>
 </table>
-
-## Como eu trabalho
-
-- Automatizo o que se repete, antes que vire a rotina de alguém.
-- Meço antes de otimizar e documento o que doeu, para não doer duas vezes.
-- Prefiro a solução simples que funciona hoje à arquitetura perfeita que chega mês que vem.
