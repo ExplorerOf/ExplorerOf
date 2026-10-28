@@ -4,7 +4,7 @@
 
 Back-end · e-commerce integrations and automation at [Olimpo Esportes](https://olimpoesportes.com.br) · Systems Analysis student
 
-<img src="terminal.en.svg?v=17" width="800" alt="Terminal: whoami, stack.json, tasklist and tibia.exe" />
+<img src="terminal.en.svg?v=18" width="800" alt="Terminal: whoami, stack.json, tasklist and tibia.exe" />
 
 - 🔌 I integrate Shopify, Mercado Livre, Shopee, Amazon, Magalu and TikTok Shop into Hermes Hub.
 - 🧰 Open source: [readme-terminal](https://github.com/ExplorerOf/readme-terminal), the generator behind the terminal above.
