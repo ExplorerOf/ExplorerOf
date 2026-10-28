@@ -5,11 +5,15 @@
   "lines": [
     "Microsoft Windows [versão 10.0.26200]",
     "",
-    {"cmd": "whoami"},
+    {
+      "cmd": "whoami"
+    },
     "You see yourself. You are a Back-end Knight.",
     "You are a member of the Olimpo Esportes. You are studying ADS.",
     "",
-    {"cmd": "type stack.json"},
+    {
+      "cmd": "type stack.json"
+    },
     "{",
     "  \"linguagens\": [\"TypeScript\", \"Python\"],",
     "  \"web\":        [\"Next.js\", \"Node.js\"],",
@@ -17,15 +21,19 @@
     "  \"ecommerce\":  [\"Shopify\", \"Mercado Livre\", \"Shopee\", \"Amazon\", \"Magalu\", \"TikTok Shop\"]",
     "}",
     "",
-    {"cmd": "tasklist"},
-    "Nome da imagem             PID  Status",
-    "=========================  ===  ===============",
-    "integracoes.exe           1001  em execução",
-    "desenvolvimento.exe       1002  em execução",
-    "suporte_n1_n2.exe         1003  em execução",
-    "impressoras.exe           1004  não respondendo",
+    {
+      "cmd": "tasklist"
+    },
+    "Nome da imagem        PID  Status           Descrição",
+    "===================  ====  ===============  =============================================",
+    "desenvolvimento.exe  1001  em execução      back-end, integrações e automações",
+    "suporte_n1_n2.exe    1002  em execução      suporte técnico N1/N2 aos usuários",
+    "impressoras.exe      1003  não respondendo  suporte a impressoras térmicas e de etiquetas",
+    "faculdade.exe        1004  em execução      Análise e Desenvolvimento de Sistemas",
     "",
-    {"cmd": "tibia.exe"},
+    {
+      "cmd": "tibia.exe"
+    },
     "'tibia.exe' não é reconhecido como um comando interno ou externo.",
     "Mas foi onde tudo começou, aos 14 anos, em Rookgaard.",
     ""

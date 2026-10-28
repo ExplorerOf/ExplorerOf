@@ -14,12 +14,12 @@
 <text x="16" y="293" fill="#21c421" opacity="0" xml:space="preserve">  "ecommerce":  ["Shopify", "Mercado Livre", "Shopee", "Amazon", "Magalu", "TikTok Shop"]<animate attributeName="opacity" to="1" begin="3.75s" dur="0.05s" fill="freeze"/></text>
 <text x="16" y="314" fill="#21c421" opacity="0" xml:space="preserve">}<animate attributeName="opacity" to="1" begin="3.85s" dur="0.05s" fill="freeze"/></text>
 <text x="16" y="356" fill="#39ff14" clip-path="url(#c14)" xml:space="preserve">C:\Users\Explorer_Of&gt;tasklist</text>
-<text x="16" y="377" fill="#21c421" opacity="0" xml:space="preserve">Nome da imagem             PID  Status<animate attributeName="opacity" to="1" begin="5.12s" dur="0.05s" fill="freeze"/></text>
-<text x="16" y="398" fill="#21c421" opacity="0" xml:space="preserve">=========================  ===  ===============<animate attributeName="opacity" to="1" begin="5.22s" dur="0.05s" fill="freeze"/></text>
-<text x="16" y="419" fill="#21c421" opacity="0" xml:space="preserve">integracoes.exe           1001  em execução<animate attributeName="opacity" to="1" begin="5.32s" dur="0.05s" fill="freeze"/></text>
-<text x="16" y="440" fill="#21c421" opacity="0" xml:space="preserve">desenvolvimento.exe       1002  em execução<animate attributeName="opacity" to="1" begin="5.42s" dur="0.05s" fill="freeze"/></text>
-<text x="16" y="461" fill="#21c421" opacity="0" xml:space="preserve">suporte_n1_n2.exe         1003  em execução<animate attributeName="opacity" to="1" begin="5.52s" dur="0.05s" fill="freeze"/></text>
-<text x="16" y="482" fill="#21c421" opacity="0" xml:space="preserve">impressoras.exe           1004  não respondendo<animate attributeName="opacity" to="1" begin="5.62s" dur="0.05s" fill="freeze"/></text>
+<text x="16" y="377" fill="#21c421" opacity="0" xml:space="preserve">Nome da imagem        PID  Status           Descrição<animate attributeName="opacity" to="1" begin="5.12s" dur="0.05s" fill="freeze"/></text>
+<text x="16" y="398" fill="#21c421" opacity="0" xml:space="preserve">===================  ====  ===============  =============================================<animate attributeName="opacity" to="1" begin="5.22s" dur="0.05s" fill="freeze"/></text>
+<text x="16" y="419" fill="#21c421" opacity="0" xml:space="preserve">desenvolvimento.exe  1001  em execução      back-end, integrações e automações<animate attributeName="opacity" to="1" begin="5.32s" dur="0.05s" fill="freeze"/></text>
+<text x="16" y="440" fill="#21c421" opacity="0" xml:space="preserve">suporte_n1_n2.exe    1002  em execução      suporte técnico N1/N2 aos usuários<animate attributeName="opacity" to="1" begin="5.42s" dur="0.05s" fill="freeze"/></text>
+<text x="16" y="461" fill="#21c421" opacity="0" xml:space="preserve">impressoras.exe      1003  não respondendo  suporte a impressoras térmicas e de etiquetas<animate attributeName="opacity" to="1" begin="5.52s" dur="0.05s" fill="freeze"/></text>
+<text x="16" y="482" fill="#21c421" opacity="0" xml:space="preserve">faculdade.exe        1004  em execução      Análise e Desenvolvimento de Sistemas<animate attributeName="opacity" to="1" begin="5.62s" dur="0.05s" fill="freeze"/></text>
 <text x="16" y="524" fill="#39ff14" clip-path="url(#c22)" xml:space="preserve">C:\Users\Explorer_Of&gt;tibia.exe</text>
 <text x="16" y="545" fill="#21c421" opacity="0" xml:space="preserve">'tibia.exe' não é reconhecido como um comando interno ou externo.<animate attributeName="opacity" to="1" begin="6.97s" dur="0.05s" fill="freeze"/></text>
 <text x="16" y="566" fill="#21c421" opacity="0" xml:space="preserve">Mas foi onde tudo começou, aos 14 anos, em Rookgaard.<animate attributeName="opacity" to="1" begin="7.07s" dur="0.05s" fill="freeze"/></text>
