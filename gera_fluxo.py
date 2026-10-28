@@ -15,7 +15,7 @@ hub=(330,120,150,64); b.append(node(*hub,"Hermes Hub","pedidos · estoque · an�
 for i,m in enumerate(mk):
     y=44+i*40; b.append(node(30,y,140,28,m,fs=13))
     b.append(edge(f"M170 {y+14} C 250 {y+14}, 250 152, 330 152",2.6,i*0.45))
-right=[("ERP (TOTVS)","faturamento · fiscal",48,True),("Hefesto","expedição · produção · estoque",124,False),("Temis.etiquetas","etiquetas de envio",200,False)]
+right=[("ERP (TOTVS)","faturamento · fiscal",48,True),("Hefesto","expedição e produção",124,False),("Temis.etiquetas","etiquetas de envio",200,False)]
 for i,(t,sub,y,both) in enumerate(right):
     b.append(node(620,y,160,52,t,sub)); yc=y+26
     if t.startswith("Temis"): b.append(edge("M700 176 L700 200",1.6,0.8))
