@@ -20,9 +20,9 @@ lines=[
  ("out","}",3.3),
  ("out","",3.3),
  ("cmd",'git log --format="%as %s" -3',3.9,1.2),
- ("out","2026-10-28 automação de expedição em produção",5.3),
- ("out","2026-10-27 integração com marketplaces: nova versão",5.4),
- ("out","2026-10-16 migração do sistema legado concluída",5.5),
+ ("out","2026-10-28 feat(automação): novo fluxo de expedição em produção",5.3),
+ ("out","2026-10-27 feat(integrações): sincronização de pedidos e estoque",5.4),
+ ("out","2026-10-16 chore(migração): sistema legado desativado",5.5),
  ("out","",5.5),
  ("cmd","",6.0,0.01),
 ]
