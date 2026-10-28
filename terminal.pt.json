@@ -6,7 +6,8 @@
     "Microsoft Windows [versão 10.0.26200]",
     "",
     {"cmd": "whoami"},
-    "Gustavo Kogien Caraski · dev back-end @ Olimpo Esportes · estudante de ADS",
+    "You see yourself. You are a Back-end Knight.",
+    "You are a member of the Olimpo Esportes. You are studying ADS.",
     "",
     {"cmd": "type stack.json"},
     "{",
@@ -18,7 +19,7 @@
     "",
     {"cmd": "tibia.exe"},
     "'tibia.exe' não é reconhecido como um comando interno ou externo.",
-    "Mas foi onde tudo começou, aos 14 anos.",
+    "Mas foi onde tudo começou, aos 14 anos, em Rookgaard.",
     ""
   ]
 }

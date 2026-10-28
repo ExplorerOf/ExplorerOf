@@ -8,4 +8,5 @@ Back-end · e-commerce integrations and automation at [Olimpo Esportes](https://
 
 - 🔌 I connect Shopify, Mercado Livre, Shopee, Amazon, Magalu and TikTok Shop to the ERP and shipping.
 - 🧰 I open-source the generic tools that come out of that work: [readme-terminal](https://github.com/ExplorerOf/readme-terminal) made the window above.
+- 🎮 Tibia player since Rookgaard. These days the grind is in production.
 - 📫 [LinkedIn](https://br.linkedin.com/in/gustavo-kogien-caraski-5846b2190)

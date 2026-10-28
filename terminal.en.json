@@ -6,7 +6,8 @@
     "Microsoft Windows [Version 10.0.26200]",
     "",
     {"cmd": "whoami"},
-    "Gustavo Kogien Caraski · back-end dev @ Olimpo Esportes · Systems Analysis student",
+    "You see yourself. You are a Back-end Knight.",
+    "You are a member of the Olimpo Esportes. You are studying Systems Analysis.",
     "",
     {"cmd": "type stack.json"},
     "{",
@@ -18,7 +19,7 @@
     "",
     {"cmd": "tibia.exe"},
     "'tibia.exe' is not recognized as an internal or external command.",
-    "But that's where it all started, at 14.",
+    "But that's where it all started, at 14, in Rookgaard.",
     ""
   ]
 }
