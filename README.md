@@ -8,5 +8,5 @@ Back-end · integrações e automação para e-commerce na [Olimpo Esportes](htt
 
 - 🔌 Integro Shopify, Mercado Livre, Shopee, Amazon, Magalu e TikTok Shop ao Hermes Hub.
 - 🧰 Projeto aberto: [readme-terminal](https://github.com/ExplorerOf/readme-terminal), o gerador do terminal acima.
-- 🎮 Tibiano desde Rookgaard. Hoje o grind é em produção.
+- 🎮 Tibiano desde Rookgaard. Hoje farmo e upo XP em produção.
 - 📫 [LinkedIn](https://br.linkedin.com/in/gustavo-kogien-caraski-5846b2190)
