@@ -6,7 +6,7 @@ Trabalho na tecnologia de uma fábrica de equipamentos para esportes de combate:
 produção, estoque, expedição e seis canais de venda de pé. Gosto de problema de chão de fábrica, de
 integração com marketplace e de código que alguém consegue ler às 3 da manhã.
 
-[Site da Olimpo](https://olimpoesportes.com.br) · [Organização no GitHub](https://github.com/Olimpo-Esportes)
+[LinkedIn](https://br.linkedin.com/in/gustavo-kogien-caraski-5846b2190) · [Site da Olimpo](https://olimpoesportes.com.br) · [Organização no GitHub](https://github.com/Olimpo-Esportes)
 
 ---
 
