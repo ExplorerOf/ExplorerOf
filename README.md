@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-<img src="terminal.svg" width="800" alt="Terminal: whoami, stack.json e projetos" />
+<img src="terminal.svg?v=2" width="800" alt="Terminal: whoami, stack.json e projetos" />
 
 **Desenvolvedor na [Olimpo Esportes](https://olimpoesportes.com.br)** e estudante de Análise e Desenvolvimento de Sistemas.
 
