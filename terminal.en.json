@@ -21,7 +21,7 @@
     "Image Name                 PID  Status",
     "=========================  ===  ===============",
     "integrations.exe          1001  running",
-    "shipping.exe              1002  running",
+    "development.exe           1002  running",
     "support_l1_l2.exe         1003  running",
     "printers.exe              1004  not responding",
     "",
