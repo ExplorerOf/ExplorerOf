@@ -7,8 +7,6 @@
     "",
     {"cmd": "whoami"},
     "Gustavo Kogien Caraski · dev back-end @ Olimpo Esportes · estudante de ADS",
-    "Entusiasta de tecnologia desde os 14 anos. Tudo começou com o Tibia e a curiosidade de",
-    "entender como os computadores funcionavam, e virou carreira em sistemas e automações.",
     "",
     {"cmd": "type stack.json"},
     "{",
@@ -18,10 +16,9 @@
     "  \"ecommerce\":  [\"Shopify\", \"Mercado Livre\", \"Shopee\", \"Amazon\", \"Magalu\", \"TikTok Shop\"]",
     "}",
     "",
-    {"cmd": "git log --format=\"%as %s\" -3"},
-    "2026-10-28 feat(automação): novo fluxo de expedição em produção",
-    "2026-10-27 feat(integrações): sincronização de pedidos e estoque",
-    "2026-10-16 chore(migração): sistema legado desativado",
+    {"cmd": "tibia.exe"},
+    "'tibia.exe' não é reconhecido como um comando interno ou externo.",
+    "Mas foi onde tudo começou, aos 14 anos.",
     ""
   ]
 }
