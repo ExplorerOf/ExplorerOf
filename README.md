@@ -11,6 +11,10 @@ marketplaces e ERP, automação de expedição e sistemas de apoio à produção
 
 [LinkedIn](https://br.linkedin.com/in/gustavo-kogien-caraski-5846b2190) · [Olimpo Esportes](https://olimpoesportes.com.br)
 
+## Projetos abertos
+
+- **[readme-terminal](https://github.com/ExplorerOf/readme-terminal)**: gera o terminal animado deste perfil como um único SVG, sem dependências. Foi o que fez a janela lá em cima.
+
 ## Stack
 
 <table>
