@@ -39,12 +39,12 @@ marketplaces e ERP, automação de expedição e sistemas de apoio à produção
   <tr>
     <td align="right"><strong>E-commerce</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" height="28" alt="Shopify" />
-      <img src="https://img.shields.io/badge/Mercado%20Livre-FFE600?style=for-the-badge&logoColor=black" height="28" alt="Mercado Livre" />
-      <img src="https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white" height="28" alt="Shopee" />
-      <img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logoColor=black" height="28" alt="Amazon" />
-      <img src="https://img.shields.io/badge/Magalu-0086FF?style=for-the-badge&logoColor=white" height="28" alt="Magalu" />
-      <img src="https://img.shields.io/badge/TikTok%20Shop-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="28" alt="TikTok Shop" />
+      <img src="logos/shopify.svg" height="40" alt="Shopify" />
+      <img src="logos/mercado-livre.svg" height="40" alt="Mercado Livre" />
+      <img src="logos/shopee.svg" height="40" alt="Shopee" />
+      <img src="logos/amazon.svg" height="40" alt="Amazon" />
+      <img src="logos/magalu.svg" height="40" alt="Magalu" />
+      <img src="logos/tiktok-shop.svg" height="40" alt="TikTok Shop" />
     </td>
   </tr>
 </table>
