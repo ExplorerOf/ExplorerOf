@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Gustavo%20Kogien%20Caraski&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%40%20Olimpo%20Esportes&descAlignY=58&descSize=18" width="100%" alt="" />
-
 # Olá, eu sou o Gustavo 👋
 
-<a href="https://github.com/ExplorerOf"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2563EB&width=520&lines=Hermes+Hub+%E2%80%94+integra%C3%A7%C3%B5es+com+marketplaces;Automa%C3%A7%C3%A3o+de+expedi%C3%A7%C3%A3o+e+estoque;TypeScript+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Docker" alt="" /></a>
+<img src="terminal.svg" width="760" alt="Terminal: whoami, stack.json e projetos" />
 
 **Desenvolvedor na [Olimpo Esportes](https://olimpoesportes.com.br)** e estudante de Análise e Desenvolvimento de Sistemas.
 
