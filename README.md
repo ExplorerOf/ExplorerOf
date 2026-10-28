@@ -11,8 +11,6 @@ marketplaces e ERP, automação de expedição e sistemas de apoio à produção
 
 ## Stack
 
-*As ferramentas por trás do Hermes Hub e das automações da Olimpo Esportes.*
-
 <table>
   <tr>
     <td align="right"><strong>Linguagens</strong></td>
