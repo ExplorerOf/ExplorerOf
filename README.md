@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-🇧🇷 Português · [🇺🇸 English](README.en.md)
+**Português** · [English](README.en.md)
 
 <img src="terminal.svg?v=11" width="800" alt="Terminal: whoami, stack.json e git log" />
 
