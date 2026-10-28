@@ -9,12 +9,6 @@ marketplaces e ERP, automação de expedição e sistemas de apoio à produção
 
 [LinkedIn](https://br.linkedin.com/in/gustavo-kogien-caraski-5846b2190) · [Olimpo Esportes](https://olimpoesportes.com.br)
 
-## Fluxo de dados
-
-*Como os pedidos e o estoque circulam entre as plataformas e os sistemas internos.*
-
-<img src="fluxo.svg" width="800" alt="Diagrama: marketplaces e loja alimentam o Hermes Hub, que troca dados com o ERP e envia para o Hefesto e o Temis.etiquetas" />
-
 ## Stack
 
 *As ferramentas por trás do Hermes Hub e das automações da Olimpo Esportes.*
