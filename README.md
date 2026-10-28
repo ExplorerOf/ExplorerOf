@@ -1,8 +1,8 @@
 # Olá, eu sou o Gustavo 👋
 
-<img src="terminal.svg?v=9" width="800" alt="Terminal: whoami, stack.json e projetos" />
+<img src="terminal.svg?v=10" width="800" alt="Terminal: whoami, stack.json e projetos" />
 
-**Desenvolvedor na [Olimpo Esportes](https://olimpoesportes.com.br)** e estudante de Análise e Desenvolvimento de Sistemas.
+**Desenvolvedor back-end na [Olimpo Esportes](https://olimpoesportes.com.br)**, com foco em integrações e automação para e-commerce, e estudante de Análise e Desenvolvimento de Sistemas.
 
 Participo da criação do **Hermes Hub** e de outras soluções internas da empresa: integrações com
 marketplaces e ERP, automação de expedição e sistemas de apoio à produção e ao estoque.

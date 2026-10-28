@@ -7,7 +7,7 @@
 <text x="700" y="21" fill="#d0d0d0" font-size="14" xml:space="preserve">─    ☐    ✕</text>
 <text x="16" y="62" fill="#21c421" opacity="0" xml:space="preserve">Microsoft Windows [versão 10.0.26200]<animate attributeName="opacity" to="1" begin="0.1s" dur="0.05s" fill="freeze"/></text>
 <text x="16" y="104" fill="#39ff14" clip-path="url(#c2)">C:\Users\Explorer_Of&gt;whoami</text>
-<text x="16" y="125" fill="#21c421" opacity="0" xml:space="preserve">Gustavo Kogien Caraski · dev @ Olimpo Esportes · estudante de ADS<animate attributeName="opacity" to="1" begin="1.2s" dur="0.05s" fill="freeze"/></text>
+<text x="16" y="125" fill="#21c421" opacity="0" xml:space="preserve">Gustavo Kogien Caraski · dev back-end @ Olimpo Esportes · estudante de ADS<animate attributeName="opacity" to="1" begin="1.2s" dur="0.05s" fill="freeze"/></text>
 <text x="16" y="146" fill="#21c421" opacity="0" xml:space="preserve">Entusiasta de tecnologia desde os 14 anos. Tudo começou com o Tibia e a curiosidade de<animate attributeName="opacity" to="1" begin="1.3s" dur="0.05s" fill="freeze"/></text>
 <text x="16" y="167" fill="#21c421" opacity="0" xml:space="preserve">entender como os computadores funcionavam, e virou carreira em sistemas e automações.<animate attributeName="opacity" to="1" begin="1.4s" dur="0.05s" fill="freeze"/></text>
 <text x="16" y="209" fill="#39ff14" clip-path="url(#c7)">C:\Users\Explorer_Of&gt;type stack.json</text>
