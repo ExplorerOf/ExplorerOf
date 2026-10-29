@@ -2,7 +2,7 @@
 
 **Português** · [English](README.en.md)
 
-Full-Stack Back-end · integrações e automação para e-commerce na [Olimpo Esportes](https://olimpoesportes.com.br) · estudante de ADS
+Full-Stack Jr Back-end · integrações e automação para e-commerce na [Olimpo Esportes](https://olimpoesportes.com.br) · estudante de ADS
 
 <img src="terminal.svg?v=20" width="800" alt="Terminal: whoami, stack.json, tasklist e tibia.exe" />
 
